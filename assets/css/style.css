@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Manrope', sans-serif;
     color: #272829;
 }
 
@@ -22,7 +22,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Raleway", sans-serif;
+    font-family: 'Manrope', sans-serif;
+
 }
 
 /*--------------------------------------------------------------
@@ -83,7 +84,7 @@ h6 {
     font-weight: 600;
     -moz-text-align-last: center;
     text-align-last: center;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Manrope', sans-serif;
 }
 #header .profile h1 a,
 #header .profile h1 a:hover {
@@ -234,7 +235,7 @@ h6 {
     color: #fff;
     margin-bottom: 50px;
     font-size: 26px;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Manrope', sans-serif;
 }
 #hero p span {
     color: #fff;
@@ -339,7 +340,7 @@ section {
     padding: 0;
     margin: 0 0 6px 0;
     display: block;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Manrope', sans-serif;
     color: #050d18;
     font-size: 15px;
 }
@@ -399,7 +400,7 @@ section {
 }
 .resume .resume-item p {
     font-size: 16px;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Manrope', sans-serif;
     color: #050d18;
     margin: 10px 0;
 }
@@ -434,7 +435,7 @@ section {
 --------------------------------------------------------------*/
 .tech p span {
     font-size: 16.5px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Manrope', sans-serif;
 }
 .portfolio .portfolio-item {
     margin-bottom: 30px;
