@@ -544,7 +544,7 @@ section {
     border: 0;
     padding: 10px 50px;
     color: var(--blanco);
-    border-radius: 10px;
+    border-radius: 22px;
 }
 
 /*--------------------------------------------------------------
@@ -593,6 +593,7 @@ section {
 
 /* cv */
 .descargar-cv {
+    border-radius: 22px;
     background-color: var(--verde) !important;
     color: var(--blanco) !important;
 }
